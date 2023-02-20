@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Nike Model E-23",
+    "price": 1099,
+    "imgUrl": "/imgs/nike.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Asics Model TSX",
+    "price": 1199,
+    "imgUrl": "/imgs/asics.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Adidas Model RR09",
+    "price": 3400,
+    "imgUrl": "/imgs/adidas.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Diesel Model B5T",
+    "price": 1000,
+    "imgUrl": "/imgs/diesel.jpg"
+  },
+
+  {
+    "id": 6,
+    "name": "Boss Model FRT",
+    "price": 3500,
+    "imgUrl": "/imgs/boss.jpg"
+  },
+
+  {
+    "id": 7,
+    "name": "New Balance Model 98789",
+    "price": 4000,
+    "imgUrl": "/imgs/newbalance.jpg"
+  },
+
+  {
+    "id": 8,
+    "name": "jordan-AIR 1 MID UNISEX ",
+    "price": 2000,
+    "imgUrl": "/imgs/jordan.jpg"
+  }
+]

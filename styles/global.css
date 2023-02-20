@@ -1,0 +1,63 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Quicksand', sans-serif;
+  }
+
+.app {
+    margin: 0;
+}
+  div.bg-image-home {
+    margin: 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .bg-image-about {
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .title {
+    margin-top: -var();
+    text-align: center;
+    font-size: 10rem;
+    color: #fff;
+    
+  }
+  .aboutText {
+    padding: 5%;
+    color: #fff;
+    background-color: rgba(18, 18, 18, 0.5);
+
+  }
+  .navbar {
+    background-color: rgb(201, 201, 201);
+    color: #fff;
+  }
+  .link {
+    color: #fff;
+  }
+  @media (max-width: 999px) {
+    .title {
+        font-size: 8rem;
+    }
+}
+  @media (max-width: 768px) {
+    .title {
+        font-size: 6rem;
+    }
+}
